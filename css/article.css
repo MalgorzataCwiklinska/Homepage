@@ -1,0 +1,65 @@
+.section__subHeader {
+  color: rgba(6, 19, 4, 0.922);
+  background-color: rgb(153, 174, 156);
+  width: auto;
+  height: 36px;
+  border: 3px solid rgb(52, 54, 52);
+}
+
+.table__caption {
+  font-weight: bold;
+  font-size: 16px;
+  text-align: left;
+  margin-bottom: 12px;
+}
+
+.table {
+  font-size: 13px;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.tableContainer {
+  overflow-x: auto;
+}
+
+.table__cell {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
+.table__cell--header {
+  background-color: rgba(110, 130, 110, 0.466);
+}
+
+.table__tableRow:hover {
+  background: rgba(80, 88, 80, 0.466);
+}
+
+.table__header {
+  background-color: rgba(110, 130, 110, 0.466);
+}
+
+.listContainer {
+  text-align: left;
+  max-width: 600px;
+  margin: auto;
+  list-style-position: inside;
+  font-size: 15px;
+  padding: 10px;
+}
+
+.list {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 40px;
+}
+
+.list__listItem {
+  padding: 5px;
+  background-color: rgba(110, 130, 110, 0.466);
+}
+
+.list__target {
+  padding: 5px;
+}

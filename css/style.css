@@ -1,0 +1,88 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+  box-sizing: inherit;
+}
+
+.foto {
+  border-radius: 10px;
+}
+
+.body {
+  background-color: rgba(233, 242, 155, 0.359);
+  max-width: 1000px;
+  letter-spacing: 0, 75px;
+  line-height: 1, 5;
+  font-family: "Lato", sans-serif;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.js-button {
+  background-color: rgb(129, 163, 133);
+  border-radius: 12px;
+  border: 2px solid rgba(50, 83, 50, 0.879);
+  padding: 10px;
+}
+
+.welcome {
+  background-color: rgb(52, 54, 52);
+  color: rgba(215, 239, 220, 0.922);
+  text-align: right;
+  max-width: 40%;
+  padding: 20px;
+  margin: 10, auto;
+  border-radius: 60px 10px;
+  box-shadow: 20px 10px 10px 10px rgba(52, 54, 52, 0.931);
+  border: 2px solid rgba(215, 239, 220, 0.922);
+  font-style: italic;
+  font-size: 12px;
+}
+
+.dark {
+  background-color: rgb(43, 70, 43);
+  color: rgb(176, 201, 176);
+}
+
+.footer {
+  background-color: rgb(52, 54, 52);
+  color: rgba(215, 239, 220, 0.922);
+  max-width: 400px;
+  padding: 10px;
+  margin: auto;
+  border-radius: 10px 10px;
+  box-shadow: 10px 5px 5px 5px rgba(52, 54, 52, 0.931);
+  border: 2px solid rgba(215, 239, 220, 0.922);
+  font-style: italic;
+  font-size: 12px;
+}
+
+.image {
+  height: 200px;
+}
+
+.navigation {
+  background-color: rgb(129, 163, 133);
+  border-radius: 10px;
+  border: 3px solid rgba(50, 83, 50, 0.879);
+  padding: 5px;
+  margin: 10, auto;
+}
+
+.navigation__listItem {
+  padding: 8px;
+  font-weight: bold;
+  list-style: none;
+}
+
+.header__title {
+  color: rgba(215, 239, 220, 0.922);
+  background-color: rgba(4, 27, 4, 0.992);
+  border-radius: 10px;
+  padding: 10px;
+  font-weight: bold;
+}
