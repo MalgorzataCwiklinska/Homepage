@@ -1,6 +1,6 @@
 # Małgorzata Ćwiklińska - homepage
 
-![Meg](images/initials.jpeg)
+![Meg](images/homepage.png)
 
 ## Description
 
