@@ -1,4 +1,4 @@
-# Małgorzata Ćwiklińska - homepage
+# Małgorzata Ćwiklińska - Homepage
 
 ![Meg](images/homepage.png)
 
@@ -9,7 +9,7 @@ Welcome to my homepage. This is my firs project, created during a programming co
 ## Demo
 
 You can visit my webside here:
-https://malgorzatacwiklinska.github.io/homepage/
+https://malgorzatacwiklinska.github.io/Homepage/
 
 ## Technologies used in this project
 
