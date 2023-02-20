@@ -8,7 +8,7 @@ Welcome to my homepage. This is my firs project, created during a programming co
 
 ## Demo
 
-![My website](images/Animation.mov)
+![My website](giphy.gif)
 
 You can visit my website here:
 https://malgorzatacwiklinska.github.io/Homepage/
