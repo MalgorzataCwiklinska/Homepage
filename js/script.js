@@ -1,11 +1,22 @@
-console.log("Witam wszysttkich czytelników. Życzę miłego dnia");
+{
+  const welcome = () => {
+    console.log("Witam wszystkich developerów. Życzę miłego dnia");
+  }
 
-let button = document.querySelector(".js-button");
-let body = document.querySelector(".js-body");
-let themeName = document.querySelector(".js-themeName");
+  const toogleBackground = () => {
+    const body = document.querySelector(".js-body");
+    const themeName = document.querySelector(".js-themeName");
 
-button.addEventListener("click", () => {
-  body.classList.toggle("dark");
+    body.classList.toggle("dark");
+    themeName.innerText = body.classList.contains("dark") ? "jasne" : "ciemne";
+  };
 
-  themeName.innerText = body.classList.contains("dark") ? "jasne" : "ciemne";
-});
+  const init = () => {
+    const changeBackgroundButton = document.querySelector(".js-button");
+    changeBackgroundButton.addEventListener("click", toogleBackground);
+
+    welcome();
+  };
+
+  init();
+}
