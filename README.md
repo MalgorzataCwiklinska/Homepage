@@ -1,6 +1,6 @@
 # Małgorzata Ćwiklińska - Homepage
 
-![Meg](https://www.canva.com/join/kql-jkh-mms)
+![Homepage](images/homepage.png)
 
 ## Description
 
