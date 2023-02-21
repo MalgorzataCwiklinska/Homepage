@@ -1,12 +1,13 @@
 # Małgorzata Ćwiklińska - Homepage
 
-![Meg](images/homepage.png)
+![Meg](https://www.canva.com/join/kql-jkh-mms)
 
 ## Description
 
 Welcome to my homepage. This is my firs project, created during a programming course. 
 
 ## Demo
+![Animation](images/Animation.gif)
 
 You can visit my website here:
 https://malgorzatacwiklinska.github.io/Homepage/
